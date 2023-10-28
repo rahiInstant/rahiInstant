@@ -39,7 +39,7 @@
 
 ### Web Design
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://drive.google.com/file/d/1vYgelyofwFXl4nEC1Bk6NILJeEY-Pu6C/view?usp=drive_link" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 </div>
 
