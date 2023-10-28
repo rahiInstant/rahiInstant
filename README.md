@@ -10,7 +10,7 @@
   
 
 ### Educational Status  
-- 🏟️ I am currently studying in Bachelor of urban and regional planning, Chittagong University of Engineering and Technology 🌍  
+- 🏟️ I am currently studying in Bachelor of Science in urban and regional planning, Chittagong University of Engineering and Technology 🌍  
 
 ### Learning Status  
 - 💻 I’m currently learning JavaScript and Python.  
