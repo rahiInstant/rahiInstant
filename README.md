@@ -5,23 +5,15 @@
 </div>  
   
 
-
-
 ### Greeting!  
 ### <div align="center" style="color:F44336;">Peace be upon to you. I am Abdur Rahman. I started learning programming effectively from mid 2023.💻</div>  
   
 
-
-
 ### Educational Status  
 - 🏟️ I am currently studying in Bachelor of urban and regional planning, Chittagong University of Engineering and Technology 🌍  
-  
-
-
 
 ### Learning Status  
 - 💻 I’m currently learning JavaScript and Python.  
-  
   
 
 <br/>  
@@ -30,15 +22,12 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
 ### Web Dev
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="50" />
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50" />
 </div>
-
 
 </div>
 
@@ -61,10 +50,8 @@
   
 </div>
 
-
 </td></tr></table>  
-
 
 [<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' alt='github' height='40'>](https://github.com/rahiInstant)  [<img src='https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress' alt='dev' height='40'>](https://hashnode.com/@Rahi2002)  [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rahi2002//)  [<img src='https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=61552828887893)  [<img src='https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Rahi_2002)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahiInstant&show_icons=true)  
+
