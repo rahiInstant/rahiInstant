@@ -28,27 +28,21 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="33%">
 
 
 
-### Web Design
+### Web Dev
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="50" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50" />
 </div>
 
-</td><td valign="top" width="25%">
 
-
-
-### Programming Language
-<div align="center">  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="50" />
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /> 
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="33%">
 
 ### Graphic Design
 <div align="center">  
@@ -56,11 +50,11 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" />
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="33%">
 
 ### Data Analysis and Presentation
 <div align="center">  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /> 
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" />
 </div>
 
