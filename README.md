@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5616AQG6APV_8wvHAQ/profile-displaybackgroundimage-shrink_350_1400/0/1698490621216?e=1703721600&v=beta&t=HBT6W0bkcmxXyknT7NSKmZkXbZZln6ZlQsqcJKBn6Jo" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D5616AQEZtOG0Tzp9cw/profile-displaybackgroundimage-shrink_350_1400/0/1698501394910?e=1703721600&v=beta&t=WlQe0fGXu4t6XEDG-lCfYzhb9Bc71Sfo4Gd1iZHpAZg" align="center" style="width: 100%" />
 </div>  
   
 
