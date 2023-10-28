@@ -6,7 +6,7 @@
   
 
 ### Greeting!  
-### <div align="center" style="color:F44336;">Peace be upon to you. I am Abdur Rahman. I started learning programming effectively from mid 2023.💻</div>  
+### <div align="center" style="color:F44336;">Peace be upon to you. I am Abdur Rahman. I started learning programming effectively from early 2023.💻</div>  
   
 
 ### Educational Status  
