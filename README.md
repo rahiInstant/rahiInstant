@@ -55,6 +55,7 @@
 ### Data Analysis and Presentation
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50" /> 
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" />
 </div>
 
