@@ -28,7 +28,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="40%">
+<table><tr><td valign="top" width="33%">
 
 
 
@@ -42,7 +42,7 @@
 
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 ### Graphic Design
 <div align="center">  
@@ -50,7 +50,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" />
 </div>
 
-</td><td valign="top" width="60%">
+</td><td valign="top" width="33%">
 
 ### Data Analysis and Presentation
 <div align="center">  
