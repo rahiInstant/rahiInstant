@@ -50,7 +50,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" />
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="34%">
 
 ### Data Analysis and Presentation
 <div align="center">  
