@@ -22,11 +22,6 @@
 ### Learning Status  
 - 💻 I’m currently learning JavaScript and Python.  
   
-
-- I am currently learning JavaScript and python.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
@@ -63,4 +58,11 @@
 
 </td><td valign="top" width="33%">
 
+### Data Analysis and Presentation
+<div align="center">  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" />
+</div>
+
+</td><td valign="top" width="33%">
 </td></tr></table>  
