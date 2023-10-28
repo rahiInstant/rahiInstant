@@ -39,7 +39,7 @@
 
 ### Web Design
 <div align="center">  
-<img style="margin: 10px" src="https://drive.google.com/file/d/16VNmIUwiqgapNZtr-2aJxJ55EQTkb7a8/view?usp=drive_link" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://photos.google.com/photo/AF1QipPO3nGb3N-xYuj-tXNotXrTANI0KeWUm3-qaIJr" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="50" />
 </div>
 
