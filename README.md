@@ -1,6 +1,5 @@
 
 
-### About me  
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D5616AQG6APV_8wvHAQ/profile-displaybackgroundimage-shrink_350_1400/0/1698490621216?e=1703721600&v=beta&t=HBT6W0bkcmxXyknT7NSKmZkXbZZln6ZlQsqcJKBn6Jo" align="center" style="width: 100%" />
 </div>  
