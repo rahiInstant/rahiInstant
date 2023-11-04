@@ -50,8 +50,8 @@
   
 </div>
 
-</td></tr></table>  
+</td></tr></table>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahiInstant&hide_border=true&layout=compact" align="left" />  
 
 [<img src='https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png' alt='github' height='40'>](https://github.com/rahiInstant)  [<img src='https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress' alt='dev' height='40'>](https://hashnode.com/@Rahi2002)  [<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rahi2002//)  [<img src='https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=61552828887893)  [<img src='https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Rahi_2002)  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahiInstant&hide_border=true&layout=compact" align="left" />  
+
 
