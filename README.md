@@ -5,6 +5,11 @@
 </div>  
 
 # <div style="color:F44336;, " align="center">Peace be upon to you. I am Abdur Rahman.</div>  
+
+<div align="center">
+<a href="http://www.github.com/The-Young-Programmer"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahiInstant&show_icons=true&count_private=true&theme=transparent&hide_border=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/></a>
+</div>
+
   
 ### More About Me...
 
