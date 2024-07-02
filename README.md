@@ -3,12 +3,10 @@
 <div align="center">
 <img src="https://drive.google.com/uc?export=download&id=1AcBcrv9wOLHsVsONAWsz_3aX7oguSsoh" align="center" style="width: 100%" />
 </div>  
-  
 
-### Peace be upon to you!  
-### <div style="color:F44336;">Peace be upon to you. I am Abdur Rahman. I started learning programming effectively from early 2023 and still learning.💻</div>  
+# <div style="color:F44336;, " align="center">Peace be upon to you. I am Abdur Rahman.</div>  
   
-<h2>More About Me...</h2>
+### More About Me...
 
 ```javascript
 const abdurRahaman = {
