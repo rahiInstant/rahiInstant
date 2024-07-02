@@ -8,11 +8,10 @@
 ### Peace be upon to you!  
 ### <div style="color:F44336;">Peace be upon to you. I am Abdur Rahman. I started learning programming effectively from early 2023 and still learning.💻</div>  
   
+<h2>More About Me...</h2>
 
-
-### More About Me 
 ```javascript
-  const abdurRahaman = {
+const abdurRahaman = {
     pronouns: "He" | "Him",
     education: {
       bachelor: {
