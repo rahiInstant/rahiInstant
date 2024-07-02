@@ -9,16 +9,20 @@
 ### <div style="color:F44336;">Peace be upon to you. I am Abdur Rahman. I started learning programming effectively from early 2023 and still learning.💻</div>  
   
 
-### Educational Status  
-- 🏟️ I am currently studying in Bachelor of Science in urban and regional planning, Chittagong University of Engineering and Technology 🌍  
-
 
 ### More About Me 
 ```javascript
   const abdurRahaman = {
     pronouns: "He" | "Him",
+    education: {
+      bachelor: {
+        institution: "Chittagong University of Engineering & Technology",
+        department: "Urabn and Regional Planning",
+        location: "Chittagong, Bangladesh",
+        timeline: "2023 - present"        
+      } 
+    },
     language: ["Javascript", "Python"],
-    askMeAbout: ["web dev", "GIS", "Remote Sensing", "Graphic Design"],
     webTechnologies: {
         frontEnd: ["HTML5", "CSS3", "TailwindCSS" ,"reactJS", "nextJS"],
         backEnd: ["expressJS", "JWT", "mongoDB"],
@@ -27,6 +31,7 @@
     GIS: ["arcGIS","QGIS", "Google earth engine"],
     otherTools:["Adobe PhotoShop", "Adobe Illustrator", "MS office"],
     currentFocus: "JavaScript deep dive",
+    askMeAbout: ["web dev", "GIS", "Remote Sensing", "Graphic Design"],
 };
 ```
 
